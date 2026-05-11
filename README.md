@@ -16,18 +16,6 @@ I build end-to-end AI systems — from data pipelines and model training to prod
 
 ---
 
-### Featured Projects
-
-| Project | What it does |
-|---|---|
-| [**HireMate**](https://github.com/AnasA18H/AnasA18H) | AI job search workspace — LinkedIn scraping, LLM resume tailoring, Easy Apply automation |
-| [**SAM.gov AI**](https://github.com/AnasA18H/Sam-Gov-AI) | Automates US government contract analysis from SAM.gov using AI |
-| [**LaunchMind**](https://github.com/AnasA18H/launchmind-i221987) | Multi-agent system: turns a startup idea into a spec, landing page, emails & Slack updates |
-| [**Spotify Big Data Clone**](https://github.com/AnasA18H/Spotify-Clone-using-Big-Data) | Music streaming platform with Flask, MongoDB, Kafka & Spark analytics |
-| [**Wildfire Analysis**](https://github.com/AnasA18H/Wildfire_Analysis_Project) | Satellite imagery analysis for burn severity mapping |
-
----
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
