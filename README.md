@@ -54,4 +54,4 @@ I turn raw data into working AI products. From big data pipelines to intelligent
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnasA18H&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github)
+![Stats](https://readme-stats.clhrn.com/api?username=AnasA18H&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
